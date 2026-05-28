@@ -1,0 +1,982 @@
+[
+  {
+    "base_term": "eudaimonia",
+    "search_query": "eudaimonia"
+  },
+  {
+    "base_term": "flourishing",
+    "search_query": "flourishing"
+  },
+  {
+    "base_term": "the good life",
+    "search_query": "the good life"
+  },
+  {
+    "base_term": "virtue ethics",
+    "search_query": "virtue ethics"
+  },
+  {
+    "base_term": "human flourishing",
+    "search_query": "human flourishing"
+  },
+  {
+    "base_term": "practical wisdom",
+    "search_query": "practical wisdom"
+  },
+  {
+    "base_term": "phronesis",
+    "search_query": "phronesis"
+  },
+  {
+    "base_term": "summum bonum",
+    "search_query": "summum bonum"
+  },
+  {
+    "base_term": "ataraxia",
+    "search_query": "ataraxia"
+  },
+  {
+    "base_term": "meaning of life",
+    "search_query": "meaning of life"
+  },
+  {
+    "base_term": "happiness",
+    "search_query": "happiness philosophy"
+  },
+  {
+    "base_term": "apatheia",
+    "search_query": "apatheia"
+  },
+  {
+    "base_term": "amor fati",
+    "search_query": "amor fati"
+  },
+  {
+    "base_term": "stoic ethics",
+    "search_query": "stoic ethics"
+  },
+  {
+    "base_term": "philosophical life",
+    "search_query": "philosophical life"
+  },
+  {
+    "base_term": "hedonism",
+    "search_query": "hedonism"
+  },
+  {
+    "base_term": "virtue",
+    "search_query": "virtue"
+  },
+  {
+    "base_term": "moral philosophy",
+    "search_query": "moral philosophy"
+  },
+  {
+    "base_term": "philosophy of love",
+    "search_query": "philosophy of love"
+  },
+  {
+    "base_term": "beauty",
+    "search_query": "beauty philosophy"
+  },
+  {
+    "base_term": "Platonism",
+    "search_query": "Platonism"
+  },
+  {
+    "base_term": "utilitarianism",
+    "search_query": "utilitarianism"
+  },
+  {
+    "base_term": "pragmatism flourishing",
+    "search_query": "pragmatism flourishing"
+  },
+  {
+    "base_term": "authenticity existential",
+    "search_query": "authenticity existential"
+  },
+  {
+    "base_term": "existential meaning",
+    "search_query": "existential meaning"
+  },
+  {
+    "base_term": "absurdism",
+    "search_query": "absurdism"
+  },
+  {
+    "base_term": "will to meaning",
+    "search_query": "will to meaning"
+  },
+  {
+    "base_term": "existential purpose",
+    "search_query": "existential purpose"
+  },
+  {
+    "base_term": "logotherapy",
+    "search_query": "logotherapy"
+  },
+  {
+    "base_term": "existentialism",
+    "search_query": "existentialism"
+  },
+  {
+    "base_term": "nihilism",
+    "search_query": "nihilism"
+  },
+  {
+    "base_term": "meaninglessness",
+    "search_query": "meaninglessness"
+  },
+  {
+    "base_term": "anomie",
+    "search_query": "anomie"
+  },
+  {
+    "base_term": "alienation",
+    "search_query": "alienation"
+  },
+  {
+    "base_term": "despair",
+    "search_query": "despair"
+  },
+  {
+    "base_term": "acedia",
+    "search_query": "acedia"
+  },
+  {
+    "base_term": "existential crisis",
+    "search_query": "existential crisis"
+  },
+  {
+    "base_term": "boredom meaning",
+    "search_query": "boredom meaning"
+  },
+  {
+    "base_term": "meaning in life",
+    "search_query": "meaning in life"
+  },
+  {
+    "base_term": "purpose in life",
+    "search_query": "purpose in life"
+  },
+  {
+    "base_term": "purposeful life",
+    "search_query": "purposeful life"
+  },
+  {
+    "base_term": "well-being",
+    "search_query": "well-being"
+  },
+  {
+    "base_term": "subjective well-being",
+    "search_query": "subjective well-being"
+  },
+  {
+    "base_term": "life satisfaction",
+    "search_query": "life satisfaction"
+  },
+  {
+    "base_term": "psychological well-being",
+    "search_query": "psychological well-being"
+  },
+  {
+    "base_term": "self-actualization",
+    "search_query": "self-actualization"
+  },
+  {
+    "base_term": "positive psychology",
+    "search_query": "positive psychology"
+  },
+  {
+    "base_term": "thriving",
+    "search_query": "thriving"
+  },
+  {
+    "base_term": "life meaning",
+    "search_query": "life meaning"
+  },
+  {
+    "base_term": "flow",
+    "search_query": "flow psychology"
+  },
+  {
+    "base_term": "optimal functioning",
+    "search_query": "optimal functioning"
+  },
+  {
+    "base_term": "hedonic well-being",
+    "search_query": "hedonic well-being"
+  },
+  {
+    "base_term": "self-determination theory",
+    "search_query": "self-determination theory"
+  },
+  {
+    "base_term": "intrinsic motivation",
+    "search_query": "intrinsic motivation"
+  },
+  {
+    "base_term": "self-compassion",
+    "search_query": "self-compassion"
+  },
+  {
+    "base_term": "gratitude",
+    "search_query": "gratitude"
+  },
+  {
+    "base_term": "empathy",
+    "search_query": "empathy"
+  },
+  {
+    "base_term": "self-realization",
+    "search_query": "self-realization"
+  },
+  {
+    "base_term": "self-knowledge",
+    "search_query": "self-knowledge"
+  },
+  {
+    "base_term": "self-esteem",
+    "search_query": "self-esteem"
+  },
+  {
+    "base_term": "hopefulness",
+    "search_query": "hopefulness"
+  },
+  {
+    "base_term": "resilience",
+    "search_query": "resilience"
+  },
+  {
+    "base_term": "loneliness",
+    "search_query": "loneliness"
+  },
+  {
+    "base_term": "moral character",
+    "search_query": "moral character"
+  },
+  {
+    "base_term": "post-traumatic growth",
+    "search_query": "post-traumatic growth"
+  },
+  {
+    "base_term": "terror management theory",
+    "search_query": "terror management theory"
+  },
+  {
+    "base_term": "narrative identity",
+    "search_query": "narrative identity"
+  },
+  {
+    "base_term": "spiritual intelligence",
+    "search_query": "spiritual intelligence"
+  },
+  {
+    "base_term": "dialogical self",
+    "search_query": "dialogical self"
+  },
+  {
+    "base_term": "conscience",
+    "search_query": "conscience"
+  },
+  {
+    "base_term": "care ethics",
+    "search_query": "care ethics"
+  },
+  {
+    "base_term": "ethics of care",
+    "search_query": "ethics of care"
+  },
+  {
+    "base_term": "relational ethics",
+    "search_query": "relational ethics"
+  },
+  {
+    "base_term": "phenomenology of meaning",
+    "search_query": "phenomenology of meaning"
+  },
+  {
+    "base_term": "lived experience meaning",
+    "search_query": "lived experience meaning"
+  },
+  {
+    "base_term": "hermeneutics",
+    "search_query": "hermeneutics"
+  },
+  {
+    "base_term": "saada",
+    "search_query": "saada"
+  },
+  {
+    "base_term": "falah",
+    "search_query": "falah"
+  },
+  {
+    "base_term": "ihsan",
+    "search_query": "ihsan"
+  },
+  {
+    "base_term": "hayat tayyiba",
+    "search_query": "hayat tayyiba"
+  },
+  {
+    "base_term": "maqasid al-shariah",
+    "search_query": "maqasid al-shariah"
+  },
+  {
+    "base_term": "ghaya",
+    "search_query": "ghaya"
+  },
+  {
+    "base_term": "kimiya al-saada",
+    "search_query": "kimiya al-saada"
+  },
+  {
+    "base_term": "tawakkul",
+    "search_query": "tawakkul"
+  },
+  {
+    "base_term": "sabr",
+    "search_query": "sabr"
+  },
+  {
+    "base_term": "shukr",
+    "search_query": "shukr Islamic"
+  },
+  {
+    "base_term": "zuhd",
+    "search_query": "zuhd"
+  },
+  {
+    "base_term": "ridaa",
+    "search_query": "ridaa"
+  },
+  {
+    "base_term": "taqwa",
+    "search_query": "taqwa"
+  },
+  {
+    "base_term": "barakah",
+    "search_query": "barakah"
+  },
+  {
+    "base_term": "sakina",
+    "search_query": "sakina"
+  },
+  {
+    "base_term": "itqan",
+    "search_query": "itqan"
+  },
+  {
+    "base_term": "fana",
+    "search_query": "fana sufism"
+  },
+  {
+    "base_term": "marifa",
+    "search_query": "marifa"
+  },
+  {
+    "base_term": "nafs",
+    "search_query": "nafs"
+  },
+  {
+    "base_term": "tazkiyat al-nafs",
+    "search_query": "tazkiyat al-nafs"
+  },
+  {
+    "base_term": "spiritual purification",
+    "search_query": "spiritual purification"
+  },
+  {
+    "base_term": "ren",
+    "search_query": "ren Confucian"
+  },
+  {
+    "base_term": "dao",
+    "search_query": "dao philosophy"
+  },
+  {
+    "base_term": "junzi",
+    "search_query": "junzi"
+  },
+  {
+    "base_term": "self-cultivation",
+    "search_query": "self-cultivation"
+  },
+  {
+    "base_term": "harmonious life",
+    "search_query": "harmonious life"
+  },
+  {
+    "base_term": "wu wei",
+    "search_query": "wu wei"
+  },
+  {
+    "base_term": "xiu shen",
+    "search_query": "xiu shen"
+  },
+  {
+    "base_term": "yi",
+    "search_query": "yi Confucian virtue"
+  },
+  {
+    "base_term": "social harmony",
+    "search_query": "social harmony"
+  },
+  {
+    "base_term": "li",
+    "search_query": "li ritual propriety"
+  },
+  {
+    "base_term": "de",
+    "search_query": "de moral virtue Confucian"
+  },
+  {
+    "base_term": "zhongyong",
+    "search_query": "zhongyong"
+  },
+  {
+    "base_term": "xiao",
+    "search_query": "xiao filial piety"
+  },
+  {
+    "base_term": "he",
+    "search_query": "he harmony Confucian"
+  },
+  {
+    "base_term": "cheng",
+    "search_query": "cheng sincerity Confucian"
+  },
+  {
+    "base_term": "ziran",
+    "search_query": "ziran"
+  },
+  {
+    "base_term": "Taoism",
+    "search_query": "Taoism well-being"
+  },
+  {
+    "base_term": "pu",
+    "search_query": "pu Taoist simplicity"
+  },
+  {
+    "base_term": "enlightenment",
+    "search_query": "enlightenment Buddhist"
+  },
+  {
+    "base_term": "nirvana",
+    "search_query": "nirvana"
+  },
+  {
+    "base_term": "dharma",
+    "search_query": "dharma Buddhist"
+  },
+  {
+    "base_term": "right livelihood",
+    "search_query": "right livelihood"
+  },
+  {
+    "base_term": "mindfulness",
+    "search_query": "mindfulness"
+  },
+  {
+    "base_term": "sunyata",
+    "search_query": "sunyata"
+  },
+  {
+    "base_term": "karma",
+    "search_query": "karma philosophy"
+  },
+  {
+    "base_term": "meditation",
+    "search_query": "meditation well-being"
+  },
+  {
+    "base_term": "liberation",
+    "search_query": "liberation spiritual"
+  },
+  {
+    "base_term": "dukkha",
+    "search_query": "dukkha"
+  },
+  {
+    "base_term": "sukha",
+    "search_query": "sukha"
+  },
+  {
+    "base_term": "metta",
+    "search_query": "metta"
+  },
+  {
+    "base_term": "karuna",
+    "search_query": "karuna Buddhist"
+  },
+  {
+    "base_term": "mudita",
+    "search_query": "mudita"
+  },
+  {
+    "base_term": "upekkha",
+    "search_query": "upekkha"
+  },
+  {
+    "base_term": "sila",
+    "search_query": "sila Buddhist"
+  },
+  {
+    "base_term": "samadhi",
+    "search_query": "samadhi"
+  },
+  {
+    "base_term": "prajna",
+    "search_query": "prajna wisdom"
+  },
+  {
+    "base_term": "bodhi",
+    "search_query": "bodhi"
+  },
+  {
+    "base_term": "sangha",
+    "search_query": "sangha Buddhist"
+  },
+  {
+    "base_term": "bodhisattva",
+    "search_query": "bodhisattva"
+  },
+  {
+    "base_term": "reincarnation",
+    "search_query": "reincarnation"
+  },
+  {
+    "base_term": "moksha",
+    "search_query": "moksha"
+  },
+  {
+    "base_term": "ananda",
+    "search_query": "ananda"
+  },
+  {
+    "base_term": "artha",
+    "search_query": "artha Hindu"
+  },
+  {
+    "base_term": "purushartha",
+    "search_query": "purushartha"
+  },
+  {
+    "base_term": "satya",
+    "search_query": "satya"
+  },
+  {
+    "base_term": "ahimsa",
+    "search_query": "ahimsa"
+  },
+  {
+    "base_term": "bhakti",
+    "search_query": "bhakti"
+  },
+  {
+    "base_term": "jnana",
+    "search_query": "jnana knowledge"
+  },
+  {
+    "base_term": "seva",
+    "search_query": "seva"
+  },
+  {
+    "base_term": "santosha",
+    "search_query": "santosha"
+  },
+  {
+    "base_term": "sattva",
+    "search_query": "sattva"
+  },
+  {
+    "base_term": "vairagya",
+    "search_query": "vairagya"
+  },
+  {
+    "base_term": "tapas",
+    "search_query": "tapas spiritual discipline"
+  },
+  {
+    "base_term": "brahman",
+    "search_query": "brahman"
+  },
+  {
+    "base_term": "ikigai",
+    "search_query": "ikigai"
+  },
+  {
+    "base_term": "wabi-sabi",
+    "search_query": "wabi-sabi"
+  },
+  {
+    "base_term": "mono no aware",
+    "search_query": "mono no aware"
+  },
+  {
+    "base_term": "shinrin-yoku",
+    "search_query": "shinrin-yoku"
+  },
+  {
+    "base_term": "kaizen",
+    "search_query": "kaizen well-being"
+  },
+  {
+    "base_term": "gaman",
+    "search_query": "gaman Japanese"
+  },
+  {
+    "base_term": "jeong",
+    "search_query": "jeong Korean"
+  },
+  {
+    "base_term": "han",
+    "search_query": "han Korean emotion"
+  },
+  {
+    "base_term": "nunchi",
+    "search_query": "nunchi Korean"
+  },
+  {
+    "base_term": "shimcheong",
+    "search_query": "shimcheong"
+  },
+  {
+    "base_term": "heung",
+    "search_query": "heung Korean"
+  },
+  {
+    "base_term": "ubuntu philosophy",
+    "search_query": "ubuntu philosophy"
+  },
+  {
+    "base_term": "ujamaa",
+    "search_query": "ujamaa"
+  },
+  {
+    "base_term": "communalism",
+    "search_query": "communalism African"
+  },
+  {
+    "base_term": "personhood in African philosophy",
+    "search_query": "personhood in African philosophy"
+  },
+  {
+    "base_term": "botho",
+    "search_query": "botho"
+  },
+  {
+    "base_term": "ukama",
+    "search_query": "ukama"
+  },
+  {
+    "base_term": "buen vivir",
+    "search_query": "buen vivir"
+  },
+  {
+    "base_term": "sumak kawsay",
+    "search_query": "sumak kawsay"
+  },
+  {
+    "base_term": "hozho Navajo",
+    "search_query": "hozho Navajo"
+  },
+  {
+    "base_term": "mitakuye oyasin",
+    "search_query": "mitakuye oyasin"
+  },
+  {
+    "base_term": "shamanism",
+    "search_query": "shamanism well-being"
+  },
+  {
+    "base_term": "tikkun olam",
+    "search_query": "tikkun olam"
+  },
+  {
+    "base_term": "simcha",
+    "search_query": "simcha"
+  },
+  {
+    "base_term": "shalom",
+    "search_query": "shalom Jewish"
+  },
+  {
+    "base_term": "chesed",
+    "search_query": "chesed"
+  },
+  {
+    "base_term": "kavvanah",
+    "search_query": "kavvanah"
+  },
+  {
+    "base_term": "teshuva",
+    "search_query": "teshuva"
+  },
+  {
+    "base_term": "menucha",
+    "search_query": "menucha"
+  },
+  {
+    "base_term": "kabbalah",
+    "search_query": "kabbalah"
+  },
+  {
+    "base_term": "salvation",
+    "search_query": "salvation theology"
+  },
+  {
+    "base_term": "beatitude",
+    "search_query": "beatitude"
+  },
+  {
+    "base_term": "contemplative life",
+    "search_query": "contemplative life"
+  },
+  {
+    "base_term": "divine purpose",
+    "search_query": "divine purpose"
+  },
+  {
+    "base_term": "spiritual well-being",
+    "search_query": "spiritual well-being"
+  },
+  {
+    "base_term": "theosis",
+    "search_query": "theosis"
+  },
+  {
+    "base_term": "contemplation",
+    "search_query": "contemplation spiritual"
+  },
+  {
+    "base_term": "prayer",
+    "search_query": "prayer well-being"
+  },
+  {
+    "base_term": "liberation theology",
+    "search_query": "liberation theology"
+  },
+  {
+    "base_term": "faith",
+    "search_query": "faith meaning"
+  },
+  {
+    "base_term": "spirituality",
+    "search_query": "spirituality"
+  },
+  {
+    "base_term": "mysticism",
+    "search_query": "mysticism"
+  },
+  {
+    "base_term": "soul",
+    "search_query": "soul philosophy"
+  },
+  {
+    "base_term": "consciousness",
+    "search_query": "consciousness philosophy"
+  },
+  {
+    "base_term": "afterlife",
+    "search_query": "afterlife philosophy"
+  },
+  {
+    "base_term": "immortality",
+    "search_query": "immortality philosophy"
+  },
+  {
+    "base_term": "religious experience",
+    "search_query": "religious experience"
+  },
+  {
+    "base_term": "philosophy of life",
+    "search_query": "philosophy of life"
+  },
+  {
+    "base_term": "holism",
+    "search_query": "holism"
+  },
+  {
+    "base_term": "transcendental meditation",
+    "search_query": "transcendental meditation"
+  },
+  {
+    "base_term": "compassion",
+    "search_query": "compassion"
+  },
+  {
+    "base_term": "kindness",
+    "search_query": "kindness"
+  },
+  {
+    "base_term": "humility",
+    "search_query": "humility"
+  },
+  {
+    "base_term": "courage",
+    "search_query": "courage"
+  },
+  {
+    "base_term": "excellence",
+    "search_query": "excellence"
+  },
+  {
+    "base_term": "dignity",
+    "search_query": "dignity"
+  },
+  {
+    "base_term": "friendship philosophy",
+    "search_query": "friendship philosophy"
+  },
+  {
+    "base_term": "generosity",
+    "search_query": "generosity"
+  },
+  {
+    "base_term": "wisdom",
+    "search_query": "wisdom philosophy"
+  },
+  {
+    "base_term": "social justice",
+    "search_query": "social justice"
+  },
+  {
+    "base_term": "utopia",
+    "search_query": "utopia"
+  },
+  {
+    "base_term": "quality of life",
+    "search_query": "quality of life"
+  },
+  {
+    "base_term": "human development",
+    "search_query": "human development"
+  },
+  {
+    "base_term": "capabilities approach",
+    "search_query": "capabilities approach"
+  },
+  {
+    "base_term": "welfare well-being",
+    "search_query": "welfare well-being"
+  },
+  {
+    "base_term": "social well-being",
+    "search_query": "social well-being"
+  },
+  {
+    "base_term": "fundamental human needs",
+    "search_query": "fundamental human needs"
+  },
+  {
+    "base_term": "health-related quality of life",
+    "search_query": "health-related quality of life"
+  },
+  {
+    "base_term": "wellness",
+    "search_query": "wellness"
+  },
+  {
+    "base_term": "mental well-being",
+    "search_query": "mental well-being"
+  },
+  {
+    "base_term": "effective altruism",
+    "search_query": "effective altruism"
+  },
+  {
+    "base_term": "meaningful work",
+    "search_query": "meaningful work"
+  },
+  {
+    "base_term": "life worth living",
+    "search_query": "life worth living"
+  },
+  {
+    "base_term": "meaningful life",
+    "search_query": "meaningful life"
+  },
+  {
+    "base_term": "pain and suffering meaning",
+    "search_query": "pain and suffering meaning"
+  },
+  {
+    "base_term": "ethnography of well-being",
+    "search_query": "ethnography of well-being"
+  },
+  {
+    "base_term": "moral anthropology",
+    "search_query": "moral anthropology"
+  },
+  {
+    "base_term": "personhood",
+    "search_query": "personhood anthropology"
+  },
+  {
+    "base_term": "lifeworld",
+    "search_query": "lifeworld"
+  },
+  {
+    "base_term": "rites of passage meaning",
+    "search_query": "rites of passage meaning"
+  },
+  {
+    "base_term": "ritual and meaning",
+    "search_query": "ritual and meaning"
+  },
+  {
+    "base_term": "cultural models of happiness",
+    "search_query": "cultural models of happiness"
+  },
+  {
+    "base_term": "ontological anthropology",
+    "search_query": "ontological anthropology"
+  },
+  {
+    "base_term": "thick description",
+    "search_query": "thick description"
+  },
+  {
+    "base_term": "symbolic anthropology",
+    "search_query": "symbolic anthropology"
+  },
+  {
+    "base_term": "cosmology and meaning",
+    "search_query": "cosmology and meaning"
+  },
+  {
+    "base_term": "subjectivity",
+    "search_query": "subjectivity"
+  },
+  {
+    "base_term": "intersubjectivity",
+    "search_query": "intersubjectivity"
+  },
+  {
+    "base_term": "interiority",
+    "search_query": "interiority"
+  },
+  {
+    "base_term": "inner life",
+    "search_query": "inner life"
+  },
+  {
+    "base_term": "selfhood",
+    "search_query": "selfhood"
+  },
+  {
+    "base_term": "first-person experience",
+    "search_query": "first-person experience"
+  },
+  {
+    "base_term": "phenomenology of subjectivity",
+    "search_query": "phenomenology of subjectivity"
+  },
+  {
+    "base_term": "qualia",
+    "search_query": "qualia philosophy"
+  }
+]
