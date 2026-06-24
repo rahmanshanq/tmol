@@ -3,6 +3,7 @@
 import dash
 from dash import html, dcc, callback, Input, Output, ctx
 import dash_bootstrap_components as dbc
+import os
 
 app = dash.Dash(
     __name__,
@@ -60,4 +61,4 @@ def highlight_nav(path):
     return ["nav-link active" if p == path else "nav-link" for p, _, _ in NAV]
 
 if __name__ == "__main__":
-    app.run(debug=True, port=8050)
+    app.run(debug=False, host="0.0.0.0", port=int(os.environ.get("PORT", 8050)))

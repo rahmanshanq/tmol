@@ -6,3 +6,4 @@ numpy>=1.24
 networkx>=3.0
 pycountry>=22.3
 requests>=2.31
+gunicorn>=21.0
